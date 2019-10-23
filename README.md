@@ -5,7 +5,7 @@ This document provides the documentation for Ekström, B. (2019). *Developing a 
 To cite this script:
 
 ```
-Björn Ekström. Högskolan i Borås, Akademin för bibliotek, information, pedagogik och IT (2019). Rule-based method for identifying researchers on Twitter. Svensk nationell datatjänst. Version 1.0. https://doi.org/10.5878/akmc-va16
+Björn Ekström. University of Borås (2019). Rule-based method for identifying researchers on Twitter. Swedish National Data Service. Version 1.0. https://doi.org/10.5878/akmc-va16
 ```
 
 # Method
